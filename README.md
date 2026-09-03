@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 US Healthcare Insurance Analytics Dashboard
+# 🏥 US Healthcare Revenue Cycle & Claims Database
 
 **A portfolio-grade US healthcare insurance analytics project demonstrating end-to-end claims analytics, KPI design, SQL analysis, dashboard UX, and product requirements using synthetic data.**
 
