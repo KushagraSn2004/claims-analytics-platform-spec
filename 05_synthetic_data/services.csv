@@ -1,0 +1,51 @@
+service_id,service_category,service_name,service_type,specialty
+SRV-000001,Imaging,Specialist Consultation,Professional,Orthopedics
+SRV-000002,Emergency,Blood Test,Professional,Orthopedics
+SRV-000003,Inpatient,Outpatient Surgery,Professional,Radiology
+SRV-000004,Imaging,Orthopedic Consultation,Outpatient,Cardiology
+SRV-000005,Emergency,Physical Therapy,Professional,Radiology
+SRV-000006,Surgery,Diagnostic Imaging,Inpatient,Primary Care
+SRV-000007,Outpatient,MRI Scan,Inpatient,Orthopedics
+SRV-000008,Surgery,Primary Care Visit,Outpatient,Cardiology
+SRV-000009,Imaging,Dermatology Visit,Outpatient,Primary Care
+SRV-000010,Surgery,MRI Scan,Professional,Emergency Medicine
+SRV-000011,Emergency,Radiology Service,Inpatient,Oncology
+SRV-000012,Outpatient,Radiology Service,Inpatient,Primary Care
+SRV-000013,Surgery,Dermatology Visit,Professional,Dermatology
+SRV-000014,Specialist,Inpatient Admission,Professional,General Surgery
+SRV-000015,Imaging,General Consultation,Outpatient,Oncology
+SRV-000016,Outpatient,Outpatient Surgery,Professional,Primary Care
+SRV-000017,Emergency,X-Ray,Outpatient,Orthopedics
+SRV-000018,Outpatient,Follow-up Visit,Inpatient,Dermatology
+SRV-000019,Inpatient,Emergency Department Visit,Professional,General Surgery
+SRV-000020,Inpatient,Orthopedic Consultation,Professional,Oncology
+SRV-000021,Laboratory,Specialist Consultation,Professional,Cardiology
+SRV-000022,Specialist,Follow-up Visit,Professional,Orthopedics
+SRV-000023,Imaging,Dermatology Visit,Inpatient,Cardiology
+SRV-000024,Outpatient,MRI Scan,Inpatient,Emergency Medicine
+SRV-000025,Imaging,Primary Care Visit,Outpatient,Cardiology
+SRV-000026,Primary Care,Surgical Procedure,Outpatient,Cardiology
+SRV-000027,Surgery,Diagnostic Imaging,Inpatient,Cardiology
+SRV-000028,Specialist,Diagnostic Imaging,Inpatient,Orthopedics
+SRV-000029,Laboratory,Dermatology Visit,Inpatient,Orthopedics
+SRV-000030,Outpatient,Radiology Service,Outpatient,Emergency Medicine
+SRV-000031,Outpatient,Emergency Department Visit,Professional,Emergency Medicine
+SRV-000032,Outpatient,Emergency Department Visit,Outpatient,Cardiology
+SRV-000033,Inpatient,Emergency Department Visit,Inpatient,Cardiology
+SRV-000034,Specialist,Follow-up Visit,Inpatient,Cardiology
+SRV-000035,Outpatient,Primary Care Visit,Outpatient,Cardiology
+SRV-000036,Inpatient,X-Ray,Outpatient,Cardiology
+SRV-000037,Pharmacy,Diagnostic Imaging,Inpatient,Primary Care
+SRV-000038,Outpatient,Outpatient Surgery,Outpatient,Primary Care
+SRV-000039,Surgery,Physical Therapy,Outpatient,Primary Care
+SRV-000040,Outpatient,Specialist Consultation,Outpatient,General Surgery
+SRV-000041,Specialist,Outpatient Surgery,Inpatient,General Surgery
+SRV-000042,Surgery,Laboratory Test,Professional,Primary Care
+SRV-000043,Inpatient,MRI Scan,Outpatient,Radiology
+SRV-000044,Imaging,Surgical Procedure,Outpatient,General Surgery
+SRV-000045,Emergency,CT Scan,Outpatient,Radiology
+SRV-000046,Pharmacy,General Consultation,Outpatient,Primary Care
+SRV-000047,Pharmacy,Surgical Procedure,Professional,Emergency Medicine
+SRV-000048,Inpatient,Orthopedic Consultation,Outpatient,Oncology
+SRV-000049,Surgery,Orthopedic Consultation,Professional,Emergency Medicine
+SRV-000050,Inpatient,General Consultation,Professional,Emergency Medicine

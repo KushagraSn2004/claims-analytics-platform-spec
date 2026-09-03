@@ -1,0 +1,251 @@
+provider_id,provider_name,provider_type,specialty,state,network_status,quality_score
+PRV-000001,Synthetic Provider Group 001,Clinic,Oncology,IL,Out-of-Network,68.6
+PRV-000002,Synthetic Provider Group 002,Hospital,Radiology,TX,In-Network,95.4
+PRV-000003,Synthetic Provider Group 003,Physician,Primary Care,VA,In-Network,66.9
+PRV-000004,Synthetic Provider Group 004,Imaging Center,Cardiology,OH,In-Network,79.7
+PRV-000005,Synthetic Provider Group 005,Specialist,Dermatology,CO,In-Network,68.3
+PRV-000006,Synthetic Provider Group 006,Clinic,General Surgery,TX,In-Network,87.1
+PRV-000007,Synthetic Provider Group 007,Physician,Primary Care,TX,In-Network,82.2
+PRV-000008,Synthetic Provider Group 008,Physician,Emergency Medicine,WA,In-Network,67.0
+PRV-000009,Synthetic Provider Group 009,Hospital,Cardiology,NY,In-Network,82.9
+PRV-000010,Synthetic Provider Group 010,Laboratory,Primary Care,FL,In-Network,80.9
+PRV-000011,Synthetic Provider Group 011,Laboratory,Oncology,GA,Out-of-Network,66.5
+PRV-000012,Synthetic Provider Group 012,Imaging Center,Primary Care,AZ,In-Network,80.9
+PRV-000013,Synthetic Provider Group 013,Hospital,Emergency Medicine,MI,In-Network,69.8
+PRV-000014,Synthetic Provider Group 014,Imaging Center,Radiology,CA,In-Network,86.6
+PRV-000015,Synthetic Provider Group 015,Specialist,Cardiology,VA,In-Network,96.6
+PRV-000016,Synthetic Provider Group 016,Laboratory,Orthopedics,CA,In-Network,82.3
+PRV-000017,Synthetic Provider Group 017,Imaging Center,Dermatology,CO,In-Network,74.9
+PRV-000018,Synthetic Provider Group 018,Imaging Center,Dermatology,PA,In-Network,66.5
+PRV-000019,Synthetic Provider Group 019,Specialist,Orthopedics,AZ,In-Network,86.6
+PRV-000020,Synthetic Provider Group 020,Laboratory,Oncology,NC,In-Network,74.9
+PRV-000021,Synthetic Provider Group 021,Imaging Center,Cardiology,AZ,In-Network,88.7
+PRV-000022,Synthetic Provider Group 022,Specialist,Emergency Medicine,NC,In-Network,77.8
+PRV-000023,Synthetic Provider Group 023,Clinic,Primary Care,NC,In-Network,89.8
+PRV-000024,Synthetic Provider Group 024,Specialist,Primary Care,FL,In-Network,76.1
+PRV-000025,Synthetic Provider Group 025,Specialist,Cardiology,OH,Out-of-Network,79.9
+PRV-000026,Synthetic Provider Group 026,Hospital,Cardiology,CO,In-Network,93.5
+PRV-000027,Synthetic Provider Group 027,Imaging Center,Cardiology,FL,In-Network,83.0
+PRV-000028,Synthetic Provider Group 028,Imaging Center,Dermatology,GA,Out-of-Network,80.3
+PRV-000029,Synthetic Provider Group 029,Physician,Cardiology,WA,Out-of-Network,67.2
+PRV-000030,Synthetic Provider Group 030,Physician,Dermatology,OH,In-Network,93.9
+PRV-000031,Synthetic Provider Group 031,Physician,Dermatology,MI,In-Network,70.7
+PRV-000032,Synthetic Provider Group 032,Laboratory,Primary Care,CO,In-Network,80.0
+PRV-000033,Synthetic Provider Group 033,Clinic,Primary Care,NY,Out-of-Network,95.6
+PRV-000034,Synthetic Provider Group 034,Physician,Emergency Medicine,MI,Out-of-Network,83.0
+PRV-000035,Synthetic Provider Group 035,Imaging Center,Oncology,FL,In-Network,85.5
+PRV-000036,Synthetic Provider Group 036,Hospital,Primary Care,AZ,In-Network,72.9
+PRV-000037,Synthetic Provider Group 037,Clinic,Cardiology,GA,In-Network,95.3
+PRV-000038,Synthetic Provider Group 038,Laboratory,Emergency Medicine,MI,In-Network,76.4
+PRV-000039,Synthetic Provider Group 039,Hospital,Orthopedics,OH,In-Network,66.6
+PRV-000040,Synthetic Provider Group 040,Hospital,Orthopedics,NJ,In-Network,71.3
+PRV-000041,Synthetic Provider Group 041,Imaging Center,Radiology,WA,In-Network,85.9
+PRV-000042,Synthetic Provider Group 042,Specialist,General Surgery,NC,In-Network,95.7
+PRV-000043,Synthetic Provider Group 043,Clinic,General Surgery,TX,In-Network,81.3
+PRV-000044,Synthetic Provider Group 044,Laboratory,Primary Care,FL,In-Network,78.6
+PRV-000045,Synthetic Provider Group 045,Laboratory,Primary Care,NJ,In-Network,67.4
+PRV-000046,Synthetic Provider Group 046,Clinic,Dermatology,CA,In-Network,96.8
+PRV-000047,Synthetic Provider Group 047,Clinic,Emergency Medicine,MI,In-Network,83.3
+PRV-000048,Synthetic Provider Group 048,Clinic,Emergency Medicine,FL,In-Network,83.4
+PRV-000049,Synthetic Provider Group 049,Hospital,General Surgery,MI,In-Network,80.1
+PRV-000050,Synthetic Provider Group 050,Specialist,Dermatology,PA,In-Network,77.8
+PRV-000051,Synthetic Provider Group 051,Physician,Oncology,WA,Out-of-Network,86.6
+PRV-000052,Synthetic Provider Group 052,Specialist,General Surgery,VA,In-Network,92.8
+PRV-000053,Synthetic Provider Group 053,Hospital,General Surgery,MI,In-Network,72.5
+PRV-000054,Synthetic Provider Group 054,Physician,Oncology,NC,In-Network,89.7
+PRV-000055,Synthetic Provider Group 055,Specialist,General Surgery,WA,Out-of-Network,97.5
+PRV-000056,Synthetic Provider Group 056,Clinic,Radiology,TX,In-Network,75.0
+PRV-000057,Synthetic Provider Group 057,Clinic,Primary Care,NC,In-Network,93.8
+PRV-000058,Synthetic Provider Group 058,Laboratory,Emergency Medicine,PA,In-Network,68.1
+PRV-000059,Synthetic Provider Group 059,Clinic,Dermatology,CA,Out-of-Network,92.9
+PRV-000060,Synthetic Provider Group 060,Physician,General Surgery,CA,In-Network,90.7
+PRV-000061,Synthetic Provider Group 061,Imaging Center,Radiology,PA,In-Network,94.4
+PRV-000062,Synthetic Provider Group 062,Laboratory,Dermatology,PA,In-Network,68.5
+PRV-000063,Synthetic Provider Group 063,Laboratory,General Surgery,AZ,In-Network,79.8
+PRV-000064,Synthetic Provider Group 064,Clinic,Radiology,AZ,In-Network,69.9
+PRV-000065,Synthetic Provider Group 065,Imaging Center,General Surgery,NY,In-Network,87.5
+PRV-000066,Synthetic Provider Group 066,Physician,Oncology,CO,In-Network,96.1
+PRV-000067,Synthetic Provider Group 067,Specialist,Primary Care,MI,In-Network,65.3
+PRV-000068,Synthetic Provider Group 068,Imaging Center,Oncology,VA,In-Network,93.3
+PRV-000069,Synthetic Provider Group 069,Specialist,Dermatology,CA,In-Network,77.5
+PRV-000070,Synthetic Provider Group 070,Imaging Center,Orthopedics,NJ,Out-of-Network,86.4
+PRV-000071,Synthetic Provider Group 071,Laboratory,Cardiology,FL,In-Network,95.7
+PRV-000072,Synthetic Provider Group 072,Imaging Center,General Surgery,CA,In-Network,93.5
+PRV-000073,Synthetic Provider Group 073,Laboratory,General Surgery,GA,In-Network,80.5
+PRV-000074,Synthetic Provider Group 074,Specialist,Emergency Medicine,NC,In-Network,92.2
+PRV-000075,Synthetic Provider Group 075,Physician,Dermatology,FL,In-Network,84.4
+PRV-000076,Synthetic Provider Group 076,Specialist,General Surgery,TX,In-Network,67.8
+PRV-000077,Synthetic Provider Group 077,Laboratory,Emergency Medicine,WA,In-Network,83.3
+PRV-000078,Synthetic Provider Group 078,Laboratory,Orthopedics,NY,In-Network,66.1
+PRV-000079,Synthetic Provider Group 079,Imaging Center,Orthopedics,IL,In-Network,72.7
+PRV-000080,Synthetic Provider Group 080,Specialist,Emergency Medicine,CA,In-Network,72.1
+PRV-000081,Synthetic Provider Group 081,Imaging Center,Emergency Medicine,IL,In-Network,65.7
+PRV-000082,Synthetic Provider Group 082,Laboratory,Primary Care,PA,In-Network,96.3
+PRV-000083,Synthetic Provider Group 083,Imaging Center,Oncology,OH,In-Network,95.3
+PRV-000084,Synthetic Provider Group 084,Laboratory,Radiology,VA,In-Network,76.3
+PRV-000085,Synthetic Provider Group 085,Imaging Center,Dermatology,WA,In-Network,84.8
+PRV-000086,Synthetic Provider Group 086,Hospital,Orthopedics,CO,In-Network,80.9
+PRV-000087,Synthetic Provider Group 087,Hospital,Primary Care,MI,In-Network,96.0
+PRV-000088,Synthetic Provider Group 088,Clinic,Radiology,IL,In-Network,90.7
+PRV-000089,Synthetic Provider Group 089,Clinic,Emergency Medicine,TX,In-Network,84.1
+PRV-000090,Synthetic Provider Group 090,Imaging Center,Primary Care,IL,In-Network,76.6
+PRV-000091,Synthetic Provider Group 091,Clinic,Orthopedics,CO,In-Network,75.7
+PRV-000092,Synthetic Provider Group 092,Laboratory,Dermatology,MI,Out-of-Network,97.0
+PRV-000093,Synthetic Provider Group 093,Clinic,Radiology,MI,In-Network,83.4
+PRV-000094,Synthetic Provider Group 094,Laboratory,General Surgery,CO,In-Network,87.4
+PRV-000095,Synthetic Provider Group 095,Hospital,Emergency Medicine,OH,In-Network,69.3
+PRV-000096,Synthetic Provider Group 096,Hospital,Emergency Medicine,NJ,In-Network,80.9
+PRV-000097,Synthetic Provider Group 097,Hospital,Radiology,CO,In-Network,78.7
+PRV-000098,Synthetic Provider Group 098,Physician,Orthopedics,CO,In-Network,83.7
+PRV-000099,Synthetic Provider Group 099,Laboratory,Orthopedics,NJ,Out-of-Network,81.4
+PRV-000100,Synthetic Provider Group 100,Specialist,Cardiology,IL,In-Network,91.6
+PRV-000101,Synthetic Provider Group 101,Imaging Center,Radiology,MI,In-Network,84.0
+PRV-000102,Synthetic Provider Group 102,Hospital,General Surgery,NJ,In-Network,77.9
+PRV-000103,Synthetic Provider Group 103,Clinic,Cardiology,AZ,In-Network,71.4
+PRV-000104,Synthetic Provider Group 104,Physician,Primary Care,GA,In-Network,75.7
+PRV-000105,Synthetic Provider Group 105,Specialist,Primary Care,NY,In-Network,75.3
+PRV-000106,Synthetic Provider Group 106,Specialist,Cardiology,NY,Out-of-Network,69.9
+PRV-000107,Synthetic Provider Group 107,Physician,Primary Care,TX,In-Network,81.1
+PRV-000108,Synthetic Provider Group 108,Clinic,Radiology,IL,In-Network,74.1
+PRV-000109,Synthetic Provider Group 109,Laboratory,Orthopedics,VA,Out-of-Network,67.2
+PRV-000110,Synthetic Provider Group 110,Clinic,Dermatology,AZ,In-Network,80.4
+PRV-000111,Synthetic Provider Group 111,Specialist,Primary Care,MI,In-Network,70.6
+PRV-000112,Synthetic Provider Group 112,Specialist,General Surgery,IL,In-Network,92.2
+PRV-000113,Synthetic Provider Group 113,Physician,Dermatology,CA,In-Network,95.0
+PRV-000114,Synthetic Provider Group 114,Clinic,Oncology,OH,In-Network,96.0
+PRV-000115,Synthetic Provider Group 115,Physician,Emergency Medicine,CA,In-Network,77.3
+PRV-000116,Synthetic Provider Group 116,Laboratory,Orthopedics,NJ,In-Network,83.3
+PRV-000117,Synthetic Provider Group 117,Laboratory,Primary Care,AZ,In-Network,67.9
+PRV-000118,Synthetic Provider Group 118,Clinic,Radiology,GA,Out-of-Network,70.1
+PRV-000119,Synthetic Provider Group 119,Physician,Dermatology,GA,In-Network,89.5
+PRV-000120,Synthetic Provider Group 120,Imaging Center,Radiology,CO,In-Network,85.5
+PRV-000121,Synthetic Provider Group 121,Laboratory,Primary Care,TX,In-Network,88.8
+PRV-000122,Synthetic Provider Group 122,Imaging Center,Dermatology,GA,In-Network,93.0
+PRV-000123,Synthetic Provider Group 123,Laboratory,Orthopedics,CA,In-Network,76.6
+PRV-000124,Synthetic Provider Group 124,Imaging Center,Orthopedics,CA,In-Network,83.6
+PRV-000125,Synthetic Provider Group 125,Imaging Center,Radiology,NY,In-Network,88.3
+PRV-000126,Synthetic Provider Group 126,Imaging Center,General Surgery,PA,In-Network,73.9
+PRV-000127,Synthetic Provider Group 127,Specialist,Emergency Medicine,MI,In-Network,76.2
+PRV-000128,Synthetic Provider Group 128,Physician,Cardiology,WA,In-Network,96.0
+PRV-000129,Synthetic Provider Group 129,Clinic,Radiology,MI,In-Network,79.2
+PRV-000130,Synthetic Provider Group 130,Physician,General Surgery,TX,In-Network,70.4
+PRV-000131,Synthetic Provider Group 131,Hospital,General Surgery,WA,In-Network,80.2
+PRV-000132,Synthetic Provider Group 132,Specialist,Cardiology,MI,Out-of-Network,95.2
+PRV-000133,Synthetic Provider Group 133,Clinic,General Surgery,PA,In-Network,78.6
+PRV-000134,Synthetic Provider Group 134,Laboratory,Orthopedics,WA,In-Network,82.1
+PRV-000135,Synthetic Provider Group 135,Imaging Center,Emergency Medicine,OH,In-Network,74.9
+PRV-000136,Synthetic Provider Group 136,Imaging Center,General Surgery,OH,In-Network,90.1
+PRV-000137,Synthetic Provider Group 137,Specialist,Dermatology,OH,In-Network,80.8
+PRV-000138,Synthetic Provider Group 138,Clinic,Oncology,FL,In-Network,71.5
+PRV-000139,Synthetic Provider Group 139,Clinic,Oncology,NC,Out-of-Network,82.1
+PRV-000140,Synthetic Provider Group 140,Physician,Dermatology,WA,In-Network,76.1
+PRV-000141,Synthetic Provider Group 141,Laboratory,Oncology,FL,Out-of-Network,93.6
+PRV-000142,Synthetic Provider Group 142,Specialist,Primary Care,PA,In-Network,95.2
+PRV-000143,Synthetic Provider Group 143,Hospital,Emergency Medicine,IL,Out-of-Network,86.4
+PRV-000144,Synthetic Provider Group 144,Specialist,Oncology,NY,In-Network,84.2
+PRV-000145,Synthetic Provider Group 145,Laboratory,Primary Care,VA,In-Network,66.6
+PRV-000146,Synthetic Provider Group 146,Clinic,Primary Care,NC,In-Network,88.1
+PRV-000147,Synthetic Provider Group 147,Laboratory,Emergency Medicine,GA,In-Network,74.5
+PRV-000148,Synthetic Provider Group 148,Physician,Dermatology,AZ,In-Network,97.0
+PRV-000149,Synthetic Provider Group 149,Physician,Orthopedics,WA,In-Network,70.1
+PRV-000150,Synthetic Provider Group 150,Hospital,Emergency Medicine,AZ,In-Network,72.6
+PRV-000151,Synthetic Provider Group 151,Imaging Center,Cardiology,OH,Out-of-Network,95.5
+PRV-000152,Synthetic Provider Group 152,Specialist,Primary Care,NJ,In-Network,76.0
+PRV-000153,Synthetic Provider Group 153,Laboratory,Emergency Medicine,TX,Out-of-Network,68.8
+PRV-000154,Synthetic Provider Group 154,Laboratory,Orthopedics,PA,In-Network,75.3
+PRV-000155,Synthetic Provider Group 155,Hospital,Oncology,GA,Out-of-Network,75.8
+PRV-000156,Synthetic Provider Group 156,Imaging Center,Primary Care,NJ,In-Network,67.2
+PRV-000157,Synthetic Provider Group 157,Clinic,Orthopedics,NJ,In-Network,72.4
+PRV-000158,Synthetic Provider Group 158,Clinic,Oncology,GA,In-Network,70.4
+PRV-000159,Synthetic Provider Group 159,Imaging Center,Emergency Medicine,PA,In-Network,90.1
+PRV-000160,Synthetic Provider Group 160,Clinic,Dermatology,VA,In-Network,87.9
+PRV-000161,Synthetic Provider Group 161,Laboratory,Cardiology,WA,In-Network,84.6
+PRV-000162,Synthetic Provider Group 162,Physician,Orthopedics,AZ,In-Network,70.4
+PRV-000163,Synthetic Provider Group 163,Clinic,General Surgery,OH,In-Network,78.3
+PRV-000164,Synthetic Provider Group 164,Hospital,Primary Care,OH,In-Network,85.0
+PRV-000165,Synthetic Provider Group 165,Hospital,Primary Care,OH,Out-of-Network,66.8
+PRV-000166,Synthetic Provider Group 166,Clinic,General Surgery,AZ,In-Network,92.7
+PRV-000167,Synthetic Provider Group 167,Clinic,Oncology,NY,In-Network,81.1
+PRV-000168,Synthetic Provider Group 168,Specialist,Radiology,WA,In-Network,96.0
+PRV-000169,Synthetic Provider Group 169,Specialist,Oncology,NY,In-Network,69.1
+PRV-000170,Synthetic Provider Group 170,Imaging Center,General Surgery,NC,In-Network,88.3
+PRV-000171,Synthetic Provider Group 171,Hospital,Dermatology,GA,Out-of-Network,91.8
+PRV-000172,Synthetic Provider Group 172,Clinic,Emergency Medicine,NC,In-Network,96.5
+PRV-000173,Synthetic Provider Group 173,Specialist,Dermatology,NC,In-Network,75.5
+PRV-000174,Synthetic Provider Group 174,Physician,Orthopedics,MI,Out-of-Network,76.4
+PRV-000175,Synthetic Provider Group 175,Imaging Center,General Surgery,CO,In-Network,76.0
+PRV-000176,Synthetic Provider Group 176,Physician,Emergency Medicine,PA,In-Network,81.9
+PRV-000177,Synthetic Provider Group 177,Physician,Emergency Medicine,CA,Out-of-Network,72.7
+PRV-000178,Synthetic Provider Group 178,Clinic,Emergency Medicine,VA,Out-of-Network,87.4
+PRV-000179,Synthetic Provider Group 179,Hospital,Orthopedics,FL,In-Network,68.3
+PRV-000180,Synthetic Provider Group 180,Physician,Orthopedics,IL,In-Network,95.8
+PRV-000181,Synthetic Provider Group 181,Hospital,Radiology,FL,In-Network,80.1
+PRV-000182,Synthetic Provider Group 182,Hospital,Emergency Medicine,FL,In-Network,75.7
+PRV-000183,Synthetic Provider Group 183,Hospital,Dermatology,CA,In-Network,92.1
+PRV-000184,Synthetic Provider Group 184,Clinic,Cardiology,PA,In-Network,88.4
+PRV-000185,Synthetic Provider Group 185,Clinic,Radiology,WA,In-Network,81.5
+PRV-000186,Synthetic Provider Group 186,Imaging Center,Oncology,VA,Out-of-Network,66.7
+PRV-000187,Synthetic Provider Group 187,Physician,Orthopedics,NJ,In-Network,87.7
+PRV-000188,Synthetic Provider Group 188,Clinic,Radiology,AZ,In-Network,67.6
+PRV-000189,Synthetic Provider Group 189,Imaging Center,Orthopedics,WA,In-Network,93.2
+PRV-000190,Synthetic Provider Group 190,Physician,Radiology,FL,In-Network,91.8
+PRV-000191,Synthetic Provider Group 191,Laboratory,Cardiology,NC,In-Network,73.2
+PRV-000192,Synthetic Provider Group 192,Specialist,Radiology,NJ,In-Network,88.6
+PRV-000193,Synthetic Provider Group 193,Physician,Oncology,NC,Out-of-Network,95.7
+PRV-000194,Synthetic Provider Group 194,Hospital,General Surgery,TX,In-Network,81.4
+PRV-000195,Synthetic Provider Group 195,Clinic,Radiology,GA,Out-of-Network,94.5
+PRV-000196,Synthetic Provider Group 196,Laboratory,Dermatology,MI,In-Network,96.6
+PRV-000197,Synthetic Provider Group 197,Specialist,Orthopedics,IL,In-Network,65.6
+PRV-000198,Synthetic Provider Group 198,Laboratory,Cardiology,OH,In-Network,92.9
+PRV-000199,Synthetic Provider Group 199,Hospital,Radiology,NJ,Out-of-Network,79.3
+PRV-000200,Synthetic Provider Group 200,Clinic,Orthopedics,CA,Out-of-Network,65.0
+PRV-000201,Synthetic Provider Group 201,Laboratory,Cardiology,WA,In-Network,70.1
+PRV-000202,Synthetic Provider Group 202,Clinic,Dermatology,CO,In-Network,87.0
+PRV-000203,Synthetic Provider Group 203,Laboratory,General Surgery,GA,Out-of-Network,75.1
+PRV-000204,Synthetic Provider Group 204,Specialist,Emergency Medicine,OH,Out-of-Network,65.8
+PRV-000205,Synthetic Provider Group 205,Imaging Center,Primary Care,OH,In-Network,66.3
+PRV-000206,Synthetic Provider Group 206,Hospital,Cardiology,NJ,In-Network,89.9
+PRV-000207,Synthetic Provider Group 207,Specialist,Cardiology,PA,In-Network,72.1
+PRV-000208,Synthetic Provider Group 208,Physician,General Surgery,PA,In-Network,81.5
+PRV-000209,Synthetic Provider Group 209,Hospital,Emergency Medicine,CA,In-Network,97.1
+PRV-000210,Synthetic Provider Group 210,Laboratory,Cardiology,AZ,Out-of-Network,83.3
+PRV-000211,Synthetic Provider Group 211,Hospital,Dermatology,CO,In-Network,82.7
+PRV-000212,Synthetic Provider Group 212,Clinic,Cardiology,CO,In-Network,76.7
+PRV-000213,Synthetic Provider Group 213,Laboratory,Primary Care,WA,In-Network,86.8
+PRV-000214,Synthetic Provider Group 214,Laboratory,Radiology,AZ,In-Network,82.7
+PRV-000215,Synthetic Provider Group 215,Physician,Dermatology,GA,In-Network,66.1
+PRV-000216,Synthetic Provider Group 216,Laboratory,Orthopedics,OH,In-Network,92.2
+PRV-000217,Synthetic Provider Group 217,Specialist,Cardiology,VA,In-Network,93.5
+PRV-000218,Synthetic Provider Group 218,Laboratory,Orthopedics,VA,In-Network,72.0
+PRV-000219,Synthetic Provider Group 219,Laboratory,Oncology,CA,In-Network,72.4
+PRV-000220,Synthetic Provider Group 220,Specialist,Primary Care,CO,In-Network,90.4
+PRV-000221,Synthetic Provider Group 221,Imaging Center,General Surgery,NJ,In-Network,84.7
+PRV-000222,Synthetic Provider Group 222,Specialist,Radiology,TX,In-Network,76.4
+PRV-000223,Synthetic Provider Group 223,Clinic,Emergency Medicine,AZ,In-Network,67.6
+PRV-000224,Synthetic Provider Group 224,Laboratory,General Surgery,IL,In-Network,96.1
+PRV-000225,Synthetic Provider Group 225,Laboratory,Dermatology,GA,In-Network,93.7
+PRV-000226,Synthetic Provider Group 226,Clinic,General Surgery,NJ,In-Network,79.0
+PRV-000227,Synthetic Provider Group 227,Clinic,Dermatology,CA,In-Network,85.1
+PRV-000228,Synthetic Provider Group 228,Clinic,Dermatology,FL,Out-of-Network,73.2
+PRV-000229,Synthetic Provider Group 229,Hospital,Primary Care,NJ,In-Network,79.5
+PRV-000230,Synthetic Provider Group 230,Imaging Center,Orthopedics,CA,In-Network,69.4
+PRV-000231,Synthetic Provider Group 231,Imaging Center,Radiology,AZ,In-Network,91.1
+PRV-000232,Synthetic Provider Group 232,Physician,General Surgery,OH,In-Network,91.2
+PRV-000233,Synthetic Provider Group 233,Hospital,Emergency Medicine,TX,In-Network,87.7
+PRV-000234,Synthetic Provider Group 234,Laboratory,Cardiology,NC,In-Network,92.7
+PRV-000235,Synthetic Provider Group 235,Hospital,Radiology,IL,In-Network,87.2
+PRV-000236,Synthetic Provider Group 236,Hospital,Cardiology,NY,In-Network,66.9
+PRV-000237,Synthetic Provider Group 237,Clinic,Oncology,WA,In-Network,86.7
+PRV-000238,Synthetic Provider Group 238,Clinic,Oncology,NC,Out-of-Network,81.7
+PRV-000239,Synthetic Provider Group 239,Specialist,Primary Care,VA,In-Network,95.3
+PRV-000240,Synthetic Provider Group 240,Physician,General Surgery,AZ,In-Network,72.8
+PRV-000241,Synthetic Provider Group 241,Imaging Center,General Surgery,NY,In-Network,68.2
+PRV-000242,Synthetic Provider Group 242,Physician,Primary Care,FL,In-Network,90.5
+PRV-000243,Synthetic Provider Group 243,Physician,Emergency Medicine,MI,In-Network,65.9
+PRV-000244,Synthetic Provider Group 244,Imaging Center,Cardiology,IL,In-Network,70.2
+PRV-000245,Synthetic Provider Group 245,Clinic,Emergency Medicine,CA,In-Network,97.1
+PRV-000246,Synthetic Provider Group 246,Clinic,Cardiology,GA,Out-of-Network,83.7
+PRV-000247,Synthetic Provider Group 247,Specialist,Dermatology,WA,Out-of-Network,78.6
+PRV-000248,Synthetic Provider Group 248,Laboratory,Orthopedics,CO,In-Network,87.9
+PRV-000249,Synthetic Provider Group 249,Clinic,Cardiology,CO,In-Network,77.5
+PRV-000250,Synthetic Provider Group 250,Physician,Radiology,NY,In-Network,75.8
